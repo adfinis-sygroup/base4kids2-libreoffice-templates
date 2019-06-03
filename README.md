@@ -1,2 +1,2 @@
 # base4kids2-libreoffice-templates
-Libreoffice document templates (Calc, Impress, and Writer) for for Base4Kids2
+This repository holds a collection of libreoffice document templates for [Base4Kids](http://www.base4kids.ch). 
