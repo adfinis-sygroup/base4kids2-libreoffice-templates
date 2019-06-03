@@ -1,0 +1,4 @@
+# This is a template directory for Collabora Office Mobile
+https://adfinis-sygroup.github.io/base4kids2-libreoffice-templates/de_ch/empty.ots
+https://adfinis-sygroup.github.io/base4kids2-libreoffice-templates/fr_ch/empty.ots
+https://adfinis-sygroup.github.io/base4kids2-libreoffice-templates/en_gb/empty.ots
