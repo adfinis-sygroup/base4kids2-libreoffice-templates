@@ -8,3 +8,6 @@ https://adfinis-sygroup.github.io/base4kids2-libreoffice-templates/fr_ch/Vide.ot
 https://adfinis-sygroup.github.io/base4kids2-libreoffice-templates/en_gb/Empty.ott
 https://adfinis-sygroup.github.io/base4kids2-libreoffice-templates/en_gb/Empty.ots
 https://adfinis-sygroup.github.io/base4kids2-libreoffice-templates/en_gb/Empty.otp
+https://adfinis-sygroup.github.io/base4kids2-libreoffice-templates/it_it/Vuoto.ott
+https://adfinis-sygroup.github.io/base4kids2-libreoffice-templates/it_it/Vuoto.ots
+https://adfinis-sygroup.github.io/base4kids2-libreoffice-templates/it_it/Vuoto.otp
